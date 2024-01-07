@@ -3,9 +3,9 @@
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 
-const char* ssid = "Sooraj's Ideapad";
-const char* password = "12345678";
-const char* apiKey = "LO6QE2MGK0Y6TIVP";
+const char* ssid = "your_ssid";
+const char* password = "your_password";
+const char* apiKey = "thingsspeak_api_key";
 
 Adafruit_MPU6050 mpu;
 
